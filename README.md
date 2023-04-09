@@ -19,6 +19,7 @@ JUnitテストケース範囲指定実行
         <groupId>org.yipuran.junit</groupId>
         <artifactId>junit-order</artifactId>
         <version>1.0</version>
+        <scope>test</scope>
     </dependency>
 </dependencies>
 
